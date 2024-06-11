@@ -1,0 +1,14 @@
+C:\Swathi Training_C#\VisualCode-Github\Sumofsubarrays\PrefixSumapproach\obj\Debug\net8.0\PrefixSumapproach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swathi Training_C#\VisualCode-Github\Sumofsubarrays\PrefixSumapproach\obj\Debug\net8.0\PrefixSumapproach.AssemblyInfoInputs.cache
+C:\Swathi Training_C#\VisualCode-Github\Sumofsubarrays\PrefixSumapproach\obj\Debug\net8.0\PrefixSumapproach.AssemblyInfo.cs
+C:\Swathi Training_C#\VisualCode-Github\Sumofsubarrays\PrefixSumapproach\obj\Debug\net8.0\PrefixSumapproach.csproj.CoreCompileInputs.cache
+C:\Swathi Training_C#\VisualCode-Github\Sumofsubarrays\PrefixSumapproach\bin\Debug\net8.0\PrefixSumapproach.exe
+C:\Swathi Training_C#\VisualCode-Github\Sumofsubarrays\PrefixSumapproach\bin\Debug\net8.0\PrefixSumapproach.deps.json
+C:\Swathi Training_C#\VisualCode-Github\Sumofsubarrays\PrefixSumapproach\bin\Debug\net8.0\PrefixSumapproach.runtimeconfig.json
+C:\Swathi Training_C#\VisualCode-Github\Sumofsubarrays\PrefixSumapproach\bin\Debug\net8.0\PrefixSumapproach.dll
+C:\Swathi Training_C#\VisualCode-Github\Sumofsubarrays\PrefixSumapproach\bin\Debug\net8.0\PrefixSumapproach.pdb
+C:\Swathi Training_C#\VisualCode-Github\Sumofsubarrays\PrefixSumapproach\obj\Debug\net8.0\PrefixSumapproach.dll
+C:\Swathi Training_C#\VisualCode-Github\Sumofsubarrays\PrefixSumapproach\obj\Debug\net8.0\refint\PrefixSumapproach.dll
+C:\Swathi Training_C#\VisualCode-Github\Sumofsubarrays\PrefixSumapproach\obj\Debug\net8.0\PrefixSumapproach.pdb
+C:\Swathi Training_C#\VisualCode-Github\Sumofsubarrays\PrefixSumapproach\obj\Debug\net8.0\PrefixSumapproach.genruntimeconfig.cache
+C:\Swathi Training_C#\VisualCode-Github\Sumofsubarrays\PrefixSumapproach\obj\Debug\net8.0\ref\PrefixSumapproach.dll

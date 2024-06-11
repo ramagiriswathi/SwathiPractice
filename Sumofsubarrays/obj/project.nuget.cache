@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "E8oJbHpFNTLe15huoZmWyJQXxnNqk3r5oEPhIlleiZp8FXyfS+CG5ag/EE5F8uFOJ0wpNs/Ri8iDJlfNw4rjSg==",
+  "success": true,
+  "projectFilePath": "C:\\Swathi Training_C#\\VisualCode-Github\\Sumofsubarrays\\Sumofsubarrays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

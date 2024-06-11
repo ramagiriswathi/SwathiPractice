@@ -1,0 +1,31 @@
+# Navigate to the desired folder
+cd path\to\your\desired\folder
+
+# Create a new solution
+dotnet new sln -n MySolution
+
+# Create and add the first project
+dotnet new console -o Project1
+dotnet sln MySolution.sln add Project1/Project1.csproj
+
+# Create and add the second project
+dotnet new console -o Project2
+dotnet sln MySolution.sln add Project2/Project2.csproj
+
+# Verify the solution structure
+dotnet sln MySolution.sln list
+
+# Initialize Git
+git init
+
+# Add all files to Git
+git add .
+
+# Commit the changes
+git commit -m "Initial commit of MySolution with multiple projects"
+
+# Add remote repository
+git remote add origin https://github.com/yourusername/your-repo-name.git
+
+# Push changes to GitHub
+git push -u origin main

@@ -1,0 +1,14 @@
+C:\Swathi Training_C#\VisualCode-Github\Sumofsubarrays\bin\Debug\net6.0\Sumofsubarrays.exe
+C:\Swathi Training_C#\VisualCode-Github\Sumofsubarrays\bin\Debug\net6.0\Sumofsubarrays.deps.json
+C:\Swathi Training_C#\VisualCode-Github\Sumofsubarrays\bin\Debug\net6.0\Sumofsubarrays.runtimeconfig.json
+C:\Swathi Training_C#\VisualCode-Github\Sumofsubarrays\bin\Debug\net6.0\Sumofsubarrays.dll
+C:\Swathi Training_C#\VisualCode-Github\Sumofsubarrays\bin\Debug\net6.0\Sumofsubarrays.pdb
+C:\Swathi Training_C#\VisualCode-Github\Sumofsubarrays\obj\Debug\net6.0\Sumofsubarrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swathi Training_C#\VisualCode-Github\Sumofsubarrays\obj\Debug\net6.0\Sumofsubarrays.AssemblyInfoInputs.cache
+C:\Swathi Training_C#\VisualCode-Github\Sumofsubarrays\obj\Debug\net6.0\Sumofsubarrays.AssemblyInfo.cs
+C:\Swathi Training_C#\VisualCode-Github\Sumofsubarrays\obj\Debug\net6.0\Sumofsubarrays.csproj.CoreCompileInputs.cache
+C:\Swathi Training_C#\VisualCode-Github\Sumofsubarrays\obj\Debug\net6.0\Sumofsubarrays.dll
+C:\Swathi Training_C#\VisualCode-Github\Sumofsubarrays\obj\Debug\net6.0\refint\Sumofsubarrays.dll
+C:\Swathi Training_C#\VisualCode-Github\Sumofsubarrays\obj\Debug\net6.0\Sumofsubarrays.pdb
+C:\Swathi Training_C#\VisualCode-Github\Sumofsubarrays\obj\Debug\net6.0\Sumofsubarrays.genruntimeconfig.cache
+C:\Swathi Training_C#\VisualCode-Github\Sumofsubarrays\obj\Debug\net6.0\ref\Sumofsubarrays.dll
