@@ -1,0 +1,14 @@
+C:\Swathi Training_C#\VisualCode-Github\Contributiontechnique\obj\Debug\net8.0\Contributiontechnique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swathi Training_C#\VisualCode-Github\Contributiontechnique\obj\Debug\net8.0\Contributiontechnique.AssemblyInfoInputs.cache
+C:\Swathi Training_C#\VisualCode-Github\Contributiontechnique\obj\Debug\net8.0\Contributiontechnique.AssemblyInfo.cs
+C:\Swathi Training_C#\VisualCode-Github\Contributiontechnique\obj\Debug\net8.0\Contributiontechnique.csproj.CoreCompileInputs.cache
+C:\Swathi Training_C#\VisualCode-Github\Contributiontechnique\bin\Debug\net8.0\Contributiontechnique.exe
+C:\Swathi Training_C#\VisualCode-Github\Contributiontechnique\bin\Debug\net8.0\Contributiontechnique.deps.json
+C:\Swathi Training_C#\VisualCode-Github\Contributiontechnique\bin\Debug\net8.0\Contributiontechnique.runtimeconfig.json
+C:\Swathi Training_C#\VisualCode-Github\Contributiontechnique\bin\Debug\net8.0\Contributiontechnique.dll
+C:\Swathi Training_C#\VisualCode-Github\Contributiontechnique\bin\Debug\net8.0\Contributiontechnique.pdb
+C:\Swathi Training_C#\VisualCode-Github\Contributiontechnique\obj\Debug\net8.0\Contributiontechnique.dll
+C:\Swathi Training_C#\VisualCode-Github\Contributiontechnique\obj\Debug\net8.0\refint\Contributiontechnique.dll
+C:\Swathi Training_C#\VisualCode-Github\Contributiontechnique\obj\Debug\net8.0\Contributiontechnique.pdb
+C:\Swathi Training_C#\VisualCode-Github\Contributiontechnique\obj\Debug\net8.0\Contributiontechnique.genruntimeconfig.cache
+C:\Swathi Training_C#\VisualCode-Github\Contributiontechnique\obj\Debug\net8.0\ref\Contributiontechnique.dll
